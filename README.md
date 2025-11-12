@@ -1,6 +1,6 @@
-# Aquarium Guard Support Center
+# Reef Guard Support Center
 
-Welcome to the technical support hub for **Aquarium Guard** app! This repository is dedicated to helping users resolve issues, answer questions, and share feedback about the app.
+Welcome to the technical support hub for **Reef Guard** app! This repository is dedicated to helping users resolve issues, answer questions, and share feedback about the app.
 
 
 ## How to Get Support
@@ -8,11 +8,11 @@ Welcome to the technical support hub for **Aquarium Guard** app! This repository
 If you encounter problems, have suggestions, or need assistance, please follow these steps:
 
 1. **Check Existing Issues**  
-   First, browse the [Issues tab](https://github.com/smartyu/Aquarium-Guard-Support/issues) to see if your question or issue has already been addressed. This helps avoid duplicates and gets you answers faster!
+   First, browse the [Issues tab](https://github.com/smartyu/Reef-Guard-Support/issues) to see if your question or issue has already been addressed. This helps avoid duplicates and gets you answers faster!
 
 2. **Submit a New Issue**  
    If your issue isn’t listed:  
-   - Go to the [Issues tab](https://github.com/smartyu/Aquarium-Guard-Support/issues) and click **"New issue"**.  
+   - Go to the [Issues tab](https://github.com/smartyu/Reef-Guard-Support/issues) and click **"New issue"**.  
    - Choose a template:  
      - **Bug Report**: For app malfunctions (crashes, errors, etc.).  
      - **Feature Request**: For suggesting new tools or improvements.  
@@ -37,4 +37,4 @@ To assist efficiently, please include:
 Your personal information (e.g., email) shared in issues will only be used to resolve your support request and will not be shared with third parties.  
 
 
-Thank you for using Aquarium Guard! We’re committed to making your marine tank management easier.
+Thank you for using Reef Guard! We’re committed to making your marine tank management easier.
