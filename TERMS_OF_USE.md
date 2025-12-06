@@ -1,28 +1,32 @@
-Reef Guard – Terms of use
+Reef Guard – Terms of Use
 
-Effective Date: Dec 1, 2025
+Effective Date: Jan 1, 2025
 
-We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how Reef Guard handles user data.
+Welcome to Reef Guard. This application is developed and provided by SmartGuo. By downloading, installing, or using this app, you agree to be bound by the following Terms of Use.
 
-1. Information Collection  
-Reef Guard is a local utility app. We do not actively collect, upload, or share any personal identifiable information.
-All water parameters, equipment data, and maintenance records you enter are stored locally on your device.
+1. Service Description  
+Reef Guard is a tool application designed for marine aquarium management, including water parameter logging, equipment management, and maintenance record tracking. The app is for informational and record-keeping purposes only and does not provide any professional, medical, biological, or commercial breeding advice.
 
-2. Use of Information  
-All data is used solely for app functions such as display, logging, statistics, and reminders. We do not use your data for advertising, marketing, or third-party purposes.
+2. User Responsibilities  
+Users are responsible for ensuring that all data they enter is accurate, lawful, and complete. Any losses caused by incorrect input, misuse, or violation of applicable laws shall be borne by the user.
 
-3. Data Storage and Security  
-All user data is stored locally on the device by default. We take reasonable technical measures to protect data security but cannot guarantee absolute security under all circumstances. Users are encouraged to back up their own data.
+3. Intellectual Property  
+All content in this app, including but not limited to software, user interface, text, images, and icons, is protected by intellectual property laws and shall not be copied, distributed, modified, or used commercially without authorization.
 
-4. Data Sharing  
-We do not sell, rent, or share user data with any third party unless required by law or with your explicit consent.
+4. Disclaimer  
+The developer shall not be liable for any losses caused by system failures, device issues, network interruptions, data loss, or other force majeure events. Users are responsible for backing up their own data.
 
-5. Children’s Privacy  
-This app is not intended for children under the age of 13. If you believe a minor has used this app, please contact us.
+All data analysis, reminders, and statistics provided by the app are for reference only and do not constitute any guarantee.
 
-6. Policy Updates  
-We may update this Privacy Policy from time to time. Changes will be posted within the app or on relevant pages.
+5. Service Modification  
+The developer reserves the right to modify, suspend, or terminate any part of the service at any time without prior notice.
 
-7. Contact  
-If you have any questions about this Privacy Policy, please contact:
-Email: smart0806@163.com
+6. Amendments  
+These Terms may be updated from time to time. Continued use of the app constitutes acceptance of the revised Terms.
+
+7. Governing Law  
+These Terms shall be governed by and construed in accordance with the laws of the People’s Republic of China.
+
+8. Contact  
+If you have any questions regarding these Terms,
+please contact:smart0806@163.com
